@@ -4,7 +4,7 @@ Anjelo Gana worked on owner.java, books.java [Implemented Singleton Design Patte
 Rafid Karim worked on Customer.java, Customerstatus.java, SilverConsumer.java, GoldConsumer.java [Implemented State Design Pattern]
 Ansar Yonis worked on gui.java [Implemented the GUI]
 
-
+All Files are under src!!!
 Welcome to the Book Store Application, a graphical user interface (GUI) based JavaFX application designed to manage a virtual book store. This application provides a user-friendly interface for both owners and registered customers to interact with the bookstore's inventory and customer database.
 
 Features
